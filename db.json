@@ -1,11 +1,4 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
   "comments" : [
     {
       "id": 0,
